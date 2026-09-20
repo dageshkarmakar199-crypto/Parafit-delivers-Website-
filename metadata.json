@@ -1,0 +1,6 @@
+{
+  "name": "PARAFIT DELIVERS",
+  "description": "Ultra-premium customized nutrition and fresh healthy meal delivery service in Delhi NCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
